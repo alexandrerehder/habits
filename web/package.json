@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dayjs": "^1.11.7",
+    "nativewind": "^2.0.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
